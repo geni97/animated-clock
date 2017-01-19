@@ -12,6 +12,7 @@ html {
 
 .center {
   width: 28px;
+  transform: translateX(350%) translateY(280%);
 }
 
 .hand {
@@ -19,9 +20,9 @@ html {
 }
 
 .hand-hour {
-
+  transform: translateX(1008%) translateY(120%);
 }
 
 .hand-minute {
-
+  transform: translateX(880%) translateY(90%);
 }
